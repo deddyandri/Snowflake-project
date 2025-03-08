@@ -28,5 +28,14 @@ at the CUSTOMER click on 3 dor then choos Place name in editor
 
 ![image](https://github.com/user-attachments/assets/beb27fce-b4cf-4e34-a42f-63e95e7c6c08)
 
+the table name automatically placed on query editor
 
+```sql
+SELECT * FROM
 
+SNOWFLAKE_SAMPLE_DATA.TPCH_SF1.CUSTOMER
+```
+
+the result are 
+
+![image](https://github.com/user-attachments/assets/07e219ef-9a27-47eb-b062-28bee539a72b)
