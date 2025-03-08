@@ -90,7 +90,30 @@ we can change our role by click on other role,
 
 Sometimes the resulting table will be different, depending on the settings made by the accoun admin.
 
+### Create Folder
 
+click on Worksheet , then click plus sign , then click folder
 
+![image](https://github.com/user-attachments/assets/27752e6c-3fc5-4ebe-af1f-8bb92a431d92)
+
+we can name it with "First Folder"
+
+![image](https://github.com/user-attachments/assets/62ae6374-47d4-4b26-b1bb-c6e535e1ec90)
+
+now we go to Worksheet menu, then click Ou first worksheet
+
+![image](https://github.com/user-attachments/assets/ecc7c688-36e5-4c86-b84d-6dc66dc89fa4)
+
+now on the worksheet menu, we can see our new folder
+
+![image](https://github.com/user-attachments/assets/1c58599e-5dac-41d6-a2d1-06dad535d5c2)
+
+we then click on three dot beside our first worksheet, then click move, click on first folder
+
+![image](https://github.com/user-attachments/assets/fd002884-0e38-45f8-a41c-5b89f92895fe)
+
+now our first worksheet have moved to First folder
+
+![image](https://github.com/user-attachments/assets/72561c48-d0d8-45f6-8bcc-95b0429d2297)
 
 
