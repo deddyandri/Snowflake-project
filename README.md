@@ -1,6 +1,6 @@
 # Snowflake-project
 
-start with create SQL worksheet,
+## start with create SQL worksheet,
 
 <image src="https://github.com/user-attachments/assets/f4600b99-40e5-456a-8180-d9935292159c" width=30% heigh=30% />
 
@@ -40,7 +40,7 @@ the result are
 
 ![image](https://github.com/user-attachments/assets/07e219ef-9a27-47eb-b062-28bee539a72b)
 
----
+## Navigating Worksheets
 
 we notice here that, there is a statement "No Database selected"
 
@@ -75,5 +75,22 @@ then choose database name that is SNOWFLAKE_SAMPLE_DATA and choose schema name t
 the tag "No Database selected" changed to name of database + name of schema
 
 ![image](https://github.com/user-attachments/assets/3c6bbbe0-52da-49b4-b1dd-a4b0dccbdff4)
+
+now we can run the query normally
+
+in the top right corner there is our role 
+
+![image](https://github.com/user-attachments/assets/953f2e8c-7339-4440-93bc-06b01b90d6a3)
+
+as default, our role is as ACCOUNTADMIN
+
+![image](https://github.com/user-attachments/assets/95a32eb1-2280-4342-8b39-f63094df985f)
+
+we can change our role by click on other role, 
+
+Sometimes the resulting table will be different, depending on the settings made by the accoun admin.
+
+
+
 
 
