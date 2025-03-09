@@ -7,7 +7,7 @@
 - [start with create sql worksheet](https://github.com/deddyandri/Snowflake-project/blob/main/README.md#start-with-create-sql-worksheet)
 - [Navigating Worksheets](https://github.com/deddyandri/Snowflake-project/edit/main/README.md#navigating-worksheets)
 - [Create Folder](https://github.com/deddyandri/Snowflake-project/edit/main/README.md#create-folder)
-- [Settingup Warehouse](https://github.com/deddyandri/Snowflake-project/blob/main/1.%20Settingup%20Warehouse)
+- [Settingup Warehouse]
 
 ## start with create SQL worksheet,
 
@@ -127,7 +127,7 @@ now our first worksheet have moved to First folder
 
 
 ---
-## continue to Setting up Warehouse 
+## Setting up Warehouse 
 
 
 
