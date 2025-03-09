@@ -1,6 +1,6 @@
 # Snowflake-project
 
-- ini adalah (setting-up warehouse)[##Setting up Warehouse]
+- [setting-up warehouse](https://github.com/deddyandri/1.-setting-up-warehouse)]
 
 ## start with create SQL worksheet,
 
