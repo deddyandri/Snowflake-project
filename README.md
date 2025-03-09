@@ -1,5 +1,9 @@
 # Snowflake-project
 
+
+
+setting-up warehouse (https://github.com/deddyandri/1.-setting-up-warehouse)
+
 ## start with create SQL worksheet,
 
 <image src="https://github.com/user-attachments/assets/f4600b99-40e5-456a-8180-d9935292159c" width=30% heigh=30% />
