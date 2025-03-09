@@ -1,7 +1,5 @@
 # Snowflake-project
 
-[ini linkedin saya] (https://www.linkedin.com/in/ideunggul/)
-
 ## start with create SQL worksheet,
 
 <image src="https://github.com/user-attachments/assets/f4600b99-40e5-456a-8180-d9935292159c" width=30% heigh=30% />
@@ -117,5 +115,11 @@ we then click on three dot beside our first worksheet, then click move, click on
 now our first worksheet have moved to First folder
 
 ![image](https://github.com/user-attachments/assets/72561c48-d0d8-45f6-8bcc-95b0429d2297)
+
+
+---
+## Setting up Warehouse
+
+
 
 
