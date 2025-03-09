@@ -2,6 +2,7 @@
 
 - [start with create sql worksheet](https://github.com/deddyandri/Snowflake-project/blob/main/README.md#start-with-create-sql-worksheet)
 
+- [Settingup Warehouse](https://github.com/deddyandri/Snowflake-project/blob/main/1.%20Settingup%20Warehouse)
 
 ## start with create SQL worksheet,
 
