@@ -1,5 +1,6 @@
 # Snowflake-project
 
+[ini linkedin saya] (https://www.linkedin.com/in/ideunggul/)
 
 ## start with create SQL worksheet,
 
