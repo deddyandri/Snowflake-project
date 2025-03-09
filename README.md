@@ -1,8 +1,6 @@
 # Snowflake-project
 
-
-
-[setting-up warehouse] (https://github.com/deddyandri/1.-setting-up-warehouse)
+- ini adalah (setting-up warehouse)[##Setting up Warehouse]
 
 ## start with create SQL worksheet,
 
@@ -122,7 +120,7 @@ now our first worksheet have moved to First folder
 
 
 ---
-## Setting up Warehouse
+## Setting up Warehouse 
 
 
 
