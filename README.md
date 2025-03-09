@@ -2,7 +2,7 @@
 
 
 
-setting-up warehouse (https://github.com/deddyandri/1.-setting-up-warehouse)
+[setting-up warehouse] (https://github.com/deddyandri/1.-setting-up-warehouse)
 
 ## start with create SQL worksheet,
 
