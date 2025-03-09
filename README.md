@@ -1,7 +1,7 @@
 # Snowflake-project
 
-- [start with create sql worksheet](#start with create SQL worksheet)
-- [setting-up warehouse](https://github.com/deddyandri/1.-setting-up-warehouse)]
+- [start with create sql worksheet](https://github.com/deddyandri/Snowflake-project/blob/main/README.md#start-with-create-sql-worksheet)
+- [setting-up warehouse](https://github.com/deddyandri/1.-setting-up-warehouse)
 
 ## start with create SQL worksheet,
 
