@@ -7,8 +7,9 @@
 - [start with create sql worksheet](https://github.com/deddyandri/Snowflake-project/blob/main/README.md#start-with-create-sql-worksheet)
 - [Navigating Worksheets](https://github.com/deddyandri/Snowflake-project/edit/main/README.md#navigating-worksheets)
 - [Create Folder](https://github.com/deddyandri/Snowflake-project/edit/main/README.md#create-folder)
-- [Settingup Warehouse](https://github.com/deddyandri/Snowflake-project.wiki.git)
+- [Settingup Warehouse](https://github.com/deddyandri/Snowflake-project/wiki/Setting-Up-Warehouse)
 
+  
 ## start with create SQL worksheet,
 
 <image src="https://github.com/user-attachments/assets/f4600b99-40e5-456a-8180-d9935292159c" width=30% heigh=30% />
